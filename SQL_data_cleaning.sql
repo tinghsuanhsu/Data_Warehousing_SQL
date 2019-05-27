@@ -1,7 +1,7 @@
 
 /* 
 ######################################
-Task C.1 - b: data cleaning : 20 records deleted
+Data cleaning : 20 records deleted
 ###################################### 
 */ 
 
